@@ -1,0 +1,9 @@
+fastapi
+pydantic
+boto3
+langchain
+openai
+pinecone-client
+python-dotenv
+nest-asyncio
+uvicorn
